@@ -22,5 +22,11 @@
 | category | value |
 |----------|-------|
 | _zodiac_ | --- |
-| _spirit animal_ | --- |
-| _celeb birthday_ | --- |
+
+## Fashion Style :bowtie:
+
+| category | value |
+|----------|-------|
+| _hat_ | --- |
+| _clothing_ | --- |
+| _shoes_ | --- |
